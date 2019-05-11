@@ -1,0 +1,1 @@
+## My personal cmake-based project template
