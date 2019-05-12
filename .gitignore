@@ -1,6 +1,8 @@
 build/
 bin/
 lib/
+*.so
+*.a
 
 # vscode
 .vscode/
