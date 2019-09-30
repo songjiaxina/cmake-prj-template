@@ -3,7 +3,9 @@
 
 int main(int argc, char** argv) {
     std::cout << "hello world\n";
-    prj::Source* source = new prj::Source(10);
-    delete source;
+
+    gui::PangolinGui* kj = new gui::PangolinGui();
+    kj->Run();
+
     return 0;
 }
